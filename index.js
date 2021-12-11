@@ -1,19 +1,3 @@
-// cletka.addEventListener("click", x);
-// cletka11.addEventListener("click", o);
-// console.log(cletka);
-// // if(cletka1.textContent=="")
-// function o() {
-//   cletka.textContent = "o";
-//   console.log(cletka.textContent);
-//   console.log(66);
-//   removeEventListener("click", x)
-// }
-// function x() {
-// cletka.textContent = "x";
-// console.log(cletka.textContent);
-// console.log(55);
-// removeEventListener("click", o)
-// }
 let isCross = true;
 let emptyCount = 9;
 let cletka = document.querySelectorAll(".clet");

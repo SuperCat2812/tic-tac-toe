@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 .container{
-  /* background-image:url(./img/depositphotos_140299616-stock-illustration-notebook-paper-texture.jpg); */
+  background-image:url(./img/depositphotos_140299616-stock-illustration-notebook-paper-texture.jpg);
   width: 458px;
   display: flex;
   flex-wrap: wrap;
