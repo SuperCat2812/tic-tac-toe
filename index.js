@@ -61,7 +61,7 @@ restart.onclick = function () {
   for (let cletka1 of cletka) {
     cletka1.textContent = "";
   }
-  emptyCount=9;
+  emptyCount = 9;
   array = [-1, -1, -1, -1, -1, -1, -1, -1, -1];
   winnerMessage.textContent = "";
   isCross = true;

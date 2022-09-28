@@ -1,16 +1,15 @@
-*{
+* {
   margin: 0 auto;
   padding: 0;
   box-sizing: border-box;
 }
-.container{
-  background-image:url(./img/depositphotos_140299616-stock-illustration-notebook-paper-texture.jpg);
+.container {
+  background-image: url(./img/depositphotos_140299616-stock-illustration-notebook-paper-texture.jpg);
   width: 458px;
   display: flex;
   flex-wrap: wrap;
-
 }
-.clet{
+.clet {
   border: 5px solid gray;
   width: 33%;
   height: 150px;
